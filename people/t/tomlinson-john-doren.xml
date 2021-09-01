@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>tomlinson-john-doren</id>
+    <persName>
+        <surname>Tomlinson</surname>
+        <forename>John Doren</forename>
+        <altname>John D. Tomlinson</altname>
+    </persName>
+    <birth>1903</birth>
+    <death>1981</death>
+    <career-type>career</career-type>
+    <residence>
+        <state-id/>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-12-30</last-modified-date>
+</person>

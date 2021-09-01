@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>fingar-thomas</id>
+    <persName>
+        <surname>Fingar</surname>
+        <forename>Thomas</forename>
+        <altname/>
+    </persName>
+    <birth>1946</birth>
+    <death type=""/>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>va</state-id>
+    </residence>
+    <created-by>eckrothsl</created-by>
+    <created-date>2016-08-16</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-14</last-modified-date>
+</person>

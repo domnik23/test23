@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>hernandez-benigno-carlos</id>
+    <persName>
+        <surname>Hernandez</surname>
+        <forename>Benigno Carlos</forename>
+        <altname>Benigno C. Hernandez</altname>
+    </persName>
+    <birth>1917</birth>
+    <death>2007</death>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>nm</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-06-06</last-modified-date>
+</person>

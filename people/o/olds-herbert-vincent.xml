@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>olds-herbert-vincent</id>
+    <persName>
+        <surname>Olds</surname>
+        <forename>Herbert Vincent</forename>
+        <altname>Herbert V. Olds</altname>
+    </persName>
+    <birth>1913</birth>
+    <death>1999</death>
+    <career-type>career</career-type>
+    <residence>
+        <state-id/>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-06-07</last-modified-date>
+</person>

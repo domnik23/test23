@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>fraker-ford-m</id>
+    <persName>
+        <surname>Fraker</surname>
+        <forename>Ford M.</forename>
+    </persName>
+    <birth>1948</birth>
+    <death>2017</death>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>ma</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>bottsjd</last-modified-by>
+    <last-modified-date>2018-06-06</last-modified-date>
+</person>

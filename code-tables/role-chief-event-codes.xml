@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>role-chief-event-code</name>
+    <description>Event types for chief roles.</description>
+    <items>
+        <item>
+            <label>Appointed</label>
+            <value>appointed</value>
+            <class>chief</class>
+            <definition>The date a person is appointed to this position.</definition>
+        </item>
+        <item>
+            <label>Arrived</label>
+            <value>arrived</value>
+            <class>chief</class>
+            <definition>The date a person arrived and assumed charge of a diplomatic post.</definition>
+        </item>
+        <item>
+            <label>Credentialed</label>
+            <value>credentialed</value>
+            <class>chief</class>
+            <definition>The date a person formally presented their diplomatic credentials to the host government.</definition>
+        </item>
+        <item>
+            <label>Mission Terminated</label>
+            <value>missionterminated</value>
+            <class>chief</class>
+            <definition>The date the mission is terminated for this role.</definition>
+        </item>
+    </items>
+</code-table>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>keeley-robert-vossler</id>
+    <persName>
+        <surname>Keeley</surname>
+        <forename>Robert Vossler</forename>
+        <altname>Robert V. Keeley</altname>
+    </persName>
+    <birth>1929</birth>
+    <death>2015</death>
+    <career-type>career</career-type>
+    <residence>
+        <state-id>fl</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-10-01</last-modified-date>
+</person>

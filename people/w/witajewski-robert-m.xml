@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>witajewski-robert-m</id>
+    <persName>
+        <surname>Witajewski</surname>
+        <forename>Robert M.</forename>
+    </persName>
+    <birth/>
+    <death type=""/>
+    <career-type>career</career-type>
+    <residence>
+        <state-id>ca</state-id>
+    </residence>
+    <created-by>marrsaw</created-by>
+    <created-date>2015-08-27</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-07</last-modified-date>
+</person>

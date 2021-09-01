@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>lambert-christopher</id>
+    <persName>
+        <surname>Lambert</surname>
+        <forename>Christopher</forename>
+    </persName>
+    <birth>1959</birth>
+    <death type=""/>
+    <career-type>career</career-type>
+    <residence>
+        <state-id>va</state-id>
+    </residence>
+    <created-by>marrsaw</created-by>
+    <created-date>2016-01-12</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-14</last-modified-date>
+</person>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>pappas-christos-constantine</id>
+    <persName>
+        <surname>Pappas</surname>
+        <forename>Christos Constantine</forename>
+        <genName>Jr.</genName>
+        <altname>Chris C. Pappas, Jr.</altname>
+    </persName>
+    <birth>1925</birth>
+    <death>1976</death>
+    <career-type>career</career-type>
+    <residence>
+        <state-id>nh</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-21</last-modified-date>
+</person>

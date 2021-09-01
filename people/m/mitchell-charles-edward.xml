@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>mitchell-charles-edward</id>
+    <persName>
+        <surname>Mitchell</surname>
+        <forename>Charles Edward</forename>
+        <altname>Charles E. Mitchell</altname>
+    </persName>
+    <birth>1870</birth>
+    <death type="unknown"/>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>wv</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-21</last-modified-date>
+</person>

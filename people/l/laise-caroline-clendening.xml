@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>laise-caroline-clendening</id>
+    <persName>
+        <surname>Laise</surname>
+        <forename>Caroline Clendening</forename>
+        <altname>Carol C. Laise</altname>
+    </persName>
+    <birth>1917</birth>
+    <death>1991</death>
+    <career-type>career</career-type>
+    <residence>
+        <state-id sort="1">dc</state-id>
+        <state-id>vt</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-29</last-modified-date>
+</person>

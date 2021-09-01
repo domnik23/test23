@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>evans-melvin-h</id>
+    <persName>
+        <surname>Evans</surname>
+        <forename>Melvin H.</forename>
+        <altname>Melvin Herbert Evans</altname>
+    </persName>
+    <birth>1917</birth>
+    <death>1984</death>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>vi</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-08</last-modified-date>
+</person>

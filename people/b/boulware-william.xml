@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>boulware-william</id>
+    <persName>
+        <surname>Boulware</surname>
+        <forename>William</forename>
+    </persName>
+    <birth>1811</birth>
+    <death>1870</death>
+    <career-type>pre-1915</career-type>
+    <residence>
+        <state-id>va</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2015-10-13</last-modified-date>
+</person>

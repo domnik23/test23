@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>patterson-charles-n</id>
+    <persName>
+        <surname>Patterson</surname>
+        <forename>Charles N.</forename>
+        <genName>Jr.</genName>
+    </persName>
+    <birth>1943</birth>
+    <death type=""/>
+    <career-type>career</career-type>
+    <residence>
+        <state-id>tx</state-id>
+    </residence>
+    <created-by>wicentowskijc</created-by>
+    <created-date>2010-05-20</created-date>
+    <last-modified-by>marrsaw</last-modified-by>
+    <last-modified-date>2016-12-21</last-modified-date>
+</person>

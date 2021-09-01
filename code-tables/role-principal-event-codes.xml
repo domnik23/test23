@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>role-principal-event-code</name>
+    <description>These are terms used to classify role events for principal and
+        chiefs.</description>
+    <items>
+        <item>
+            <label>Appointed</label>
+            <value>appointed</value>
+        </item>
+        <item>
+            <label>Entered Duty</label>
+            <value>enteredduty</value>
+        </item>
+        <item>
+            <label>Appointment Terminated</label>
+            <value>appointmentterminated</value>
+        </item>
+    </items>
+</code-table>
