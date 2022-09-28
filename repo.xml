@@ -6,6 +6,6 @@
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>sample-collection-gitlab</target>
+    <target>tuttle-sample-data</target>
     <permissions password="pw" user="nobody" group="nobody" mode="rw-rw-r--"/>
 </meta>
